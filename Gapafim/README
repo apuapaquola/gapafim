@@ -1,0 +1,25 @@
+Gapafim version 0.01
+====================
+
+Smith-Waterman DNA sequence alignment library implemented in C, with a Perl interface.
+
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+
+
+COPYRIGHT AND LICENCE
+
+
+Copyright (C) 2011 by Apua Paquola
+
+GNU GENERAL PUBLIC LICENSE  Version 3, 29 June 2007
